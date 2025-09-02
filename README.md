@@ -8,3 +8,6 @@ It features planets revolving around the Sun with basic transformations and anim
 *Technologies Used:
 -C++
 -OpenGL
+
+## Image Screenshot
+![Screenshot](3D-solar-system-image.png)
